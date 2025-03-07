@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Hanif from Gadjah Mada University. I'm interested on GIS and environmental geography topics. 
 <!--
 **hanifadiprana21/hanifadiprana21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
